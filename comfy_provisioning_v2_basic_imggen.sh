@@ -25,6 +25,7 @@ NODES=(
     "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
     "https://github.com/WASasquatch/was-node-suite-comfyui"
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://civitai.com/models/92834?modelVersionId=98960"
 
 )
 
