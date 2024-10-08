@@ -26,8 +26,6 @@ NODES=(
     "https://github.com/WASasquatch/was-node-suite-comfyui"
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
     "https://civitai.com/api/download/models/98960?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-    "https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-
 )
 
 CHECKPOINT_MODELS=(
