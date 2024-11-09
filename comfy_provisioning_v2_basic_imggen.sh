@@ -46,6 +46,8 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
+    #ghibli
+    "https://civitai.com/models/6526/studio-ghibli-style-lora"
 )
 
 VAE_MODELS=(
