@@ -37,7 +37,8 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamshaper8
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-
+    #ghibli
+    "https://civitai.com/api/download/models/1029?type=Model&format=PickleTensor&size=full&fp=fp16"
 )
 
 UNET_MODELS=(
@@ -47,7 +48,7 @@ UNET_MODELS=(
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
     #ghibli
-    "https://civitai.com/models/6526/studio-ghibli-style-lora"
+    "https://civitai.com/api/download/models/7657?type=Model&format=SafeTensor&size=full&fp=fp16"
 )
 
 VAE_MODELS=(
