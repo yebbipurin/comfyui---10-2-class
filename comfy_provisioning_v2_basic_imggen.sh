@@ -39,6 +39,10 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #ghibli
     "https://civitai.com/api/download/models/1029?type=Model&format=PickleTensor&size=full&fp=fp16"
+    #anime
+    "https://civitai.com/api/download/models/748413?type=Model&format=SafeTensor"
+    #itojunji
+    "https://civitai.com/api/download/models/733261?type=Model&format=SafeTensor&size=full&fp=fp32"
 )
 
 UNET_MODELS=(
